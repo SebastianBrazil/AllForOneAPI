@@ -1,0 +1,17 @@
+/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/AllForOneAPI/bin/Release/net7.0/publish/AllForOneAPI
+/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/AllForOneAPI/bin/Release/net7.0/publish/publish/web.config
+/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/AllForOneAPI/bin/Release/net7.0/publish/appsettings.Development.json
+/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/AllForOneAPI/bin/Release/net7.0/publish/appsettings.json
+/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/AllForOneAPI/bin/Release/net7.0/publish/publish/AllForOneAPI.deps.json
+/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/AllForOneAPI/bin/Release/net7.0/publish/publish/AllForOneAPI.runtimeconfig.json
+/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/AllForOneAPI/bin/Release/net7.0/publish/publish/appsettings.Development.json
+/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/AllForOneAPI/bin/Release/net7.0/publish/publish/appsettings.json
+/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/AllForOneAPI/bin/Release/net7.0/publish/AllForOneAPI.dll
+/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/AllForOneAPI/bin/Release/net7.0/publish/AllForOneAPI.deps.json
+/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/AllForOneAPI/bin/Release/net7.0/publish/AllForOneAPI.runtimeconfig.json
+/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/AllForOneAPI/bin/Release/net7.0/publish/AllForOneAPI.pdb
+/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/AllForOneAPI/bin/Release/net7.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/AllForOneAPI/bin/Release/net7.0/publish/Microsoft.OpenApi.dll
+/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/AllForOneAPI/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/AllForOneAPI/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/AllForOneAPI/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

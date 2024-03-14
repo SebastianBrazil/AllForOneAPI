@@ -1,0 +1,12 @@
+/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/AllForOneAPI/publish/AllForOneAPI
+/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/AllForOneAPI/publish/appsettings.Development.json
+/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/AllForOneAPI/publish/appsettings.json
+/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/AllForOneAPI/publish/AllForOneAPI.dll
+/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/AllForOneAPI/publish/AllForOneAPI.deps.json
+/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/AllForOneAPI/publish/AllForOneAPI.runtimeconfig.json
+/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/AllForOneAPI/publish/AllForOneAPI.pdb
+/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/AllForOneAPI/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/AllForOneAPI/publish/Microsoft.OpenApi.dll
+/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/AllForOneAPI/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/AllForOneAPI/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/AllForOneAPI/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
